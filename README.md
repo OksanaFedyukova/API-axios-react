@@ -2,6 +2,11 @@
 
 This is a completed React project that fetches data from the [SWAPI](https://swapi.dev/) API and displays it in an application.
 
+![screenshots of my project](/public/api.jpg "Screenshorts")
+![screenshots of my project](/public/api2.jpg "Screenshorts")
+![screenshots of my project](/public/api3.jpg "Screenshorts")
+
+
 ## Features
 
 - Displays a list of Star Wars characters, planets, and starships
