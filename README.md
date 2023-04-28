@@ -1,36 +1,46 @@
-# React online marathon
+# React Online Marathon: Ajax Tasks
 
-## The tasks of the topic Ajax:
+This is a completed React project that fetches data from the [SWAPI](https://swapi.dev/) API and displays it in an application.
 
+## Features
 
-![](./image/task-example.gif)
+- Displays a list of Star Wars characters, planets, and starships
+- Shows an image, name, and several details for each item
+- Supports pagination to load more items
+- Has a header with tabs to switch between different categories
+- Fetches data using the Axios library and a custom service class
+- Has a root element `App` located in the `/src/components/App/` directory
 
-### Task 1
-Create Star Wars database application.
-Use [swapi.dev](https://swapi.dev/) for data and [starwars-visualguide.com](https://starwars-visualguide.com/) for images.
+## Installation
 
-Application will show:
+To run this project locally, follow these steps:
 
-- image with SW person
-- h3 tag with name
-- li elements with:
-  
-  - Gender
-  - Birth Year
-  - Eye color
-- Button "NEXT". It loads the next person.
+1. Clone the repository:
 
-### Task 2
-Do the same with "Planets" and "Starships".
-Their data cards will have at least 3 data fields.
+   ```
+   git clone https://github.com/[username]/[repository].git
+   ```
 
-### Task 3
-At the top of the page, add a Header component. When you click on the corresponding header menu, only the required component is rendered. People is render by default
+2. Install the dependencies:
 
-### Requierements:
+   ```
+   npm install
+   ```
 
-- use axios library for ajax
-- take out work with ajax and data formatting into a separate class file and name it `/src/services/sw-service.js`
-- the root element `App` must be in the `/src/components/App/` directory
-- using Router is not necessary in this task  
-- You are free in styles. Make the app prettier than the gif 8-)
+3. Run the app:
+
+   ```
+   npm start
+   ```
+
+   The app will be served at `http://localhost:3000`.
+
+## Credits
+
+This project was created as part of the React Online Marathon, using the following resources:
+
+- SWAPI (https://swapi.dev/)
+- Star Wars Visual Guide (https://starwars-visualguide.com/)
+- Axios library (https://axios-http.com/)
+- React library (https://reactjs.org/)
+- Create React App tool (https://create-react-app.dev/)
