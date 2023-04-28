@@ -51,3 +51,4 @@ This project was created as part of the React Online Marathon, using the followi
 - Axios library (https://axios-http.com/)
 - React library (https://reactjs.org/)
 - Create React App tool (https://create-react-app.dev/)
+- Material-UI (https://mui.com/)
