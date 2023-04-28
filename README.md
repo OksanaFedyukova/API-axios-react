@@ -2,9 +2,12 @@
 
 This is a completed React project that fetches data from the [SWAPI](https://swapi.dev/) API and displays it in an application.
 
-<img src="/public/api.jpg" alt="Screenshots" width="200" style="display:inline-block">
-<img src="/public/api2.jpg" alt="Screenshots" width="200" style="display:inline-block">
-<img src="/public/api3.jpg" alt="Screenshots" width="200" style="display:inline-block">
+<div style="display:flex">
+  <img src="/public/api.jpg" alt="Screenshots" width="200" style="flex: 1">
+  <img src="/public/api2.jpg" alt="Screenshots" width="200" style="flex: 1">
+  <img src="/public/api3.jpg" alt="Screenshots" width="200" style="flex: 1">
+</div>
+
 
 ## Features
 
