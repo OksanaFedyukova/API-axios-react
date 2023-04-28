@@ -1,11 +1,9 @@
 # React Online Marathon: Ajax Tasks
 
 This is a completed React project that fetches data from the [SWAPI](https://swapi.dev/) API and displays it in an application.
-
-![screenshots of my project](/public/api.jpg "Screenshorts")
-![screenshots of my project](/public/api2.jpg "Screenshorts")
-![screenshots of my project](/public/api3.jpg "Screenshorts")
-
+<img src="/public/api.jpg" alt="Screenshots" width="200" style="display:inline-block">
+<img src="/public/api2.jpg" alt="Screenshots" width="200" style="display:inline-block">
+<img src="/public/api3.jpg" alt="Screenshots" width="200" style="display:inline-block">
 
 ## Features
 
